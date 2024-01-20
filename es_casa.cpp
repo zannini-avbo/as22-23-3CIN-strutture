@@ -9,8 +9,18 @@ Creare un menu con le seguenti opzioni:
     uscire dal menu se l'utente inserisce "esci"
 */
 
-int main(int argc, char const *argv[])
+#include <iostream>
+
+using namespace std;
+
+const int DIM = 10;
+
+int main()
 {
-    /* code */
+    string nome[DIM];
+    string cognome[DIM];
+
+    /* qui va la soluzione */
+    
     return 0;
 }
